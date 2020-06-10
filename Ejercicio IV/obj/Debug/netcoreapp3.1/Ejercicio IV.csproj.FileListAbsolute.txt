@@ -1,0 +1,13 @@
+C:\Users\adria\source\repos\Ejercicio Con plus\Ejercicio IV\bin\Debug\netcoreapp3.1\Ejercicio IV.exe
+C:\Users\adria\source\repos\Ejercicio Con plus\Ejercicio IV\bin\Debug\netcoreapp3.1\Ejercicio IV.deps.json
+C:\Users\adria\source\repos\Ejercicio Con plus\Ejercicio IV\bin\Debug\netcoreapp3.1\Ejercicio IV.runtimeconfig.json
+C:\Users\adria\source\repos\Ejercicio Con plus\Ejercicio IV\bin\Debug\netcoreapp3.1\Ejercicio IV.runtimeconfig.dev.json
+C:\Users\adria\source\repos\Ejercicio Con plus\Ejercicio IV\bin\Debug\netcoreapp3.1\Ejercicio IV.dll
+C:\Users\adria\source\repos\Ejercicio Con plus\Ejercicio IV\bin\Debug\netcoreapp3.1\Ejercicio IV.pdb
+C:\Users\adria\source\repos\Ejercicio Con plus\Ejercicio IV\obj\Debug\netcoreapp3.1\Ejercicio IV.csprojAssemblyReference.cache
+C:\Users\adria\source\repos\Ejercicio Con plus\Ejercicio IV\obj\Debug\netcoreapp3.1\Ejercicio IV.csproj.CoreCompileInputs.cache
+C:\Users\adria\source\repos\Ejercicio Con plus\Ejercicio IV\obj\Debug\netcoreapp3.1\Ejercicio IV.AssemblyInfoInputs.cache
+C:\Users\adria\source\repos\Ejercicio Con plus\Ejercicio IV\obj\Debug\netcoreapp3.1\Ejercicio IV.AssemblyInfo.cs
+C:\Users\adria\source\repos\Ejercicio Con plus\Ejercicio IV\obj\Debug\netcoreapp3.1\Ejercicio IV.dll
+C:\Users\adria\source\repos\Ejercicio Con plus\Ejercicio IV\obj\Debug\netcoreapp3.1\Ejercicio IV.pdb
+C:\Users\adria\source\repos\Ejercicio Con plus\Ejercicio IV\obj\Debug\netcoreapp3.1\Ejercicio IV.genruntimeconfig.cache
